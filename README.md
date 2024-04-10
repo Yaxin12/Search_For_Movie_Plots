@@ -7,4 +7,5 @@ We have the collection including a vast array of silent films, early talkies, an
 # What we did:
 Our goal is to develop a prototype (POC/MVP) for a search tool that helps users discover relevant movies and shows based on their queries. We utilized the Semantic Search Model, BM25, ReRanker, and RAG, and generate the results, to see the score of recall@1 and Mean Reciprocal Rank, to decide which model should be used. In this repo, you can see the models'code and the write-up report (including the appendix of our results).
 
-# R
+# HW3_report
+report: https://github.com/Yaxin12/Search_For_Movie_Plots/blob/main/HW3_Report.pdf
